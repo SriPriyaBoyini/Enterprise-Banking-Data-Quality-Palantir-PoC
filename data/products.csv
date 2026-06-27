@@ -1,0 +1,11 @@
+ProductCode,ProductName,Category
+P001,Savings Account,Deposit
+P002,Current Account,Deposit
+P003,Fixed Deposit,Deposit
+P004,Personal Loan,Loan
+P005,Home Loan,Loan
+P006,Auto Loan,Loan
+P007,Credit Card,Cards
+P008,Debit Card,Cards
+P009,Salary Account,Deposit
+P010,Business Account,Business
